@@ -1,5 +1,14 @@
 ---
 title: Clark Wire & Cable Outfits Fiserv Forum in Milwaukee With Fiber, Connectivity
+tags: 
+- Sports
+- Sports Video Group
+- Parsons Electric
+- Arenas
+- Clark Wire & Cable
+- Fiserv Forum
+- Milwaukee Bucks
+categories: Arenas
 ---
 BMO Harris Bradley Center has housed the Milwaukee Bucks, Marquette University Golden Eagle's and decades of concerts for 30 years. Now, they are ready to let go of this building full of memories, so a new building can move in downtown, Fiserv Forum.
 
