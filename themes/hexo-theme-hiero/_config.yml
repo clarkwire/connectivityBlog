@@ -63,17 +63,11 @@ widgets:
 
 # Social Links
 # Key is the name of FontAwsome icon.
-# Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: https://github.com/iTimeTraveler
-  Weibo: http://www.yoursite.com
+  Weibo: http://clarkwire.com 
   Twitter: 
   Facebook: 
-  Google-plus: 
-  Instagram: 
-  Pinterest: 
-  Flickr: 
-  email:
+  email: dan.collins@clarkwire.com 
 
 
 # Search

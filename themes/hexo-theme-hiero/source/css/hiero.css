@@ -254,7 +254,7 @@ object {
 ----------------------------------------------- */
 .site-header {
 	padding: 20px 0 0;
-	background: #16171b;
+	background: #0a5dbb;
 	}
 .site-branding {
 	float: left;
@@ -330,7 +330,7 @@ object {
 	padding: 20px 0 0;
 	}
 #main-navigation .sf-menu {
-	background: #060608;
+	background: #0a5dbb;
 	}
 #main-navigation .sf-menu > ul > li:after {
 	width: 1px;
@@ -1018,7 +1018,7 @@ body.search .page .entry-footer {
 	color: #fff;
 	font-size: 20px;
 	line-height: 40px;
-	background: #060608;
+	background: #0a5dbb;
 	}
 .widget_athemes_social_icons li a:hover [class^="fa"]:before {
 	background: #ff2828;
