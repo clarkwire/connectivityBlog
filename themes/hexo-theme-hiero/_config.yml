@@ -65,8 +65,8 @@ widgets:
 # Key is the name of FontAwsome icon.
 social:
   Weibo: http://clarkwire.com 
-  Twitter: 
-  Facebook: 
+  Twitter: https://twitter.com/ClarkWire
+  Facebook: https://www.facebook.com/ClarkWire/
   email: dan.collins@clarkwire.com 
 
 
@@ -81,7 +81,7 @@ search:
 gentie_productKey: #your-gentie-product-key
 duoshuo_shortname:
 disqus_shortname: 
-livere_shortname: MTAyMC8yOTQ4MS82MDQ5
+# livere_shortname: MTAyMC8yOTQ4MS82MDQ5
 uyan_uid: 
 wumii:
 gitment:
@@ -90,11 +90,11 @@ gitment:
   client_id:               #Your client ID
   client_secret:           #Your client secret
 valine:
-  appid: #Leancloud应用app_id，必填
-  appkey: #Leancloud应用app_key，必填
+  appid: 
+  appkey: 
   notify: false
   verify: false
-  placeholder: ヾﾉ≧∀≦)o快来评论一下吧!
+  placeholder: 
   avatar: 
   pageSize: 10
   visitor: true
@@ -149,10 +149,10 @@ cnzz_siteid: 1260716016
 
 # donation button
 donate:
-    enable: true
-    message: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!'
-    wechatImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/WeChanQR.png
-    alipayImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/AliPayQR.jpg
+    enable: false
+    message: 
+    # wechatImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/WeChanQR.png
+    # alipayImage: https://raw.githubusercontent.com/iTimeTraveler/iTimeTraveler.github.io/site/source/about/donate/images/AliPayQR.jpg
 
 # Automatic page load progress bar by PACE.js
 progressBar:

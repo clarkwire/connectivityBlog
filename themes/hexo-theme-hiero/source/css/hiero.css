@@ -782,7 +782,7 @@ body.search .page .entry-footer {
 	color: #ff2828;
 	font-size: .9em;
 	font-weight: 300;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: "Yanone Kaffeesatz", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 1px;
@@ -820,7 +820,7 @@ body.search .page .entry-footer {
 	}
 #commentform label {
 	font-size: 1.2em;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: "Yanone Kaffeesatz", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	}
