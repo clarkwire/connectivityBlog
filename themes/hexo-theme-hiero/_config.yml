@@ -5,9 +5,9 @@
 # Header Menu
 menu:
   Home: /
-  Archives: archives
-  Categories: categories
-  Tags: tags
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
   About: about
 rss: /atom.xml
 

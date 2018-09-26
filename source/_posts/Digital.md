@@ -1,7 +1,10 @@
 ---
 title: Three Most Important Aspects of Digital Cable
 date: 2018-07-25 13:35:35
-tags: Digital
+tags: 
+- Digital
+categories: 
+- Tech Article
 ---
 One of the most common questions we come across is: what attributes make a good digital cable? Since a digital signal operates in a wide frequency band, it only makes sense to have a video cable that can support this.   With so many important questions to consider when deciding to purchase products for digital video, we thought it would be helpful to shed some lights on product attributes that make up a good digital video cable.
 

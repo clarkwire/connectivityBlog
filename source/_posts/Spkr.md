@@ -1,7 +1,9 @@
 ---
 title: Justification for Using 13g 4c Cable in Place of 10g 2c Cable
 date: 2018-06-25 13:45:00
-tags:
+tags: Speaker Cable Specs.
+categories:
+- Tech Article
 ---
 <p style="font-size: 18px;">
 There are two important factors to consider for this article:
