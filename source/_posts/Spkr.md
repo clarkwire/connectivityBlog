@@ -5,6 +5,8 @@ tags: Speaker Cable Specs.
 categories:
 - Tech Article
 ---
+<link href="https://fonts.googleapis.com/css?family=Roboto|Yanone+Kaffeesatz" rel="stylesheet">
+<div style="font-family: 'Roboto', sans-serif; font-size: 17px; margin-top: -75px;">
 <p style="font-size: 18px;">
 There are two important factors to consider for this article:
 
@@ -29,7 +31,7 @@ The radius of a 10-gage wire is: r = d/2 = 0.1019/2 = 0.0510, and
 The radius of a 13-gage wire is: r = d/2 = 0.0720/2 = 0.360.
 ```
 </div>
-<p style="font-size: 18px;">
+<p style="font-size: 18px; margin-top: -70px;">
 Now that the radius is known, the cross-sectional area can be calculated with the
 following formula:
 </p>
@@ -46,7 +48,7 @@ The area of a 13-gage wire is: A = πr^2
  = π(0.0013) = 0.0041
 ```
 </div>
-<p style="font-size: 18px;">
+<p style="font-size: 18px; margin-top: -70px;">
 Adding two 13-gage wires together produces a cross-sectional area of
 0.0041 + 0.0041 = 0.0082, the exact cross-sectional area of a 10-gage wire.
 Thus, by pairing two sets of two 13-gage conductors together, <em>Clark SPKR1304</em> cable can be used as a direct substitute for SPKR1002 or any other 10-2 cable.
@@ -55,3 +57,4 @@ Thus, by pairing two sets of two 13-gage conductors together, <em>Clark SPKR1304
 Todd A. Boettcher, CPBE
 Sales Engineer 
 </strong>
+</div>

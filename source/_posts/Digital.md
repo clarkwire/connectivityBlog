@@ -6,6 +6,8 @@ tags:
 categories: 
 - Tech Article
 ---
+<link href="https://fonts.googleapis.com/css?family=Roboto|Yanone+Kaffeesatz" rel="stylesheet">
+<div style="font-family: 'Roboto', sans-serif; font-size: 17px; margin-top: -25px;">
 One of the most common questions we come across is: what attributes make a good digital cable? Since a digital signal operates in a wide frequency band, it only makes sense to have a video cable that can support this.   With so many important questions to consider when deciding to purchase products for digital video, we thought it would be helpful to shed some lights on product attributes that make up a good digital video cable.
 
 1.	Solid Copper Center Conductor – If you are dealing with signals above 50 MHz, a center conductor made of copper clad steel (CCS) is acceptable.  This is because at frequencies above 50 MHz the signal will migrate to the outer portion of the center conductor.  At higher frequencies there is no need for a solid copper center conductor, so a CCS cable is appropriate.  The problem is that since a good portion of a digital signal extends below 50 MHz, a cable with a 100% copper center conductor should be used.
@@ -14,4 +16,4 @@ One of the most common questions we come across is: what attributes make a good 
 
 3.	Gas Foam Injected Dielectric – There are many choices of dielectric material for coaxial cable but in the digital realm we should chose a dielectric material that offers a good high frequency response, is fairly flexible yet relatively firm to prevent center conductor migration.  Gas foam injected dielectrics have a good frequency response and is the best option for a digital cable. 
 
-We hope this sheds some light on properties that you should look for when considering digital cable. Until next time, Happy Wiring!
+We hope this sheds some light on properties that you should look for when considering digital cable. Until next time, Happy Wiring!</div>
