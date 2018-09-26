@@ -7,10 +7,9 @@ tags:
 - 
 ---
 <link href="https://fonts.googleapis.com/css?family=Roboto|Yanone+Kaffeesatz" rel="stylesheet">
-<div style="font-family: 'Roboto', sans-serif; font-size: 20px;">
+<div style="font-family: 'Roboto', sans-serif; font-size: 17px; margin-top: -25px;">
 In all areas of business, understanding of how teams function, having efficient and effective team processes as well as a solid understanding of what these processes are can lead to effectively meeting project goals.
-</div>
-<div style="font-family: 'Roboto', sans-serif; font-size: 20px;">
+
 Sure, individuals make high quality decisions every day in business but the truth of the matter is,the tasks related to these individual decisions are relatively simple1. The more complex the tasks,the greater the need for a team. With the potential of hundreds of thousands of dollars at stake in AV system projects, isn't it worth it to consider building a solid project management team?
 
 Having a solid team allows the team leader to draw from a diverse area of experts, it opens up alternative suggestions that may not have been thought of before and allows for a systematic process of achieving specific goals. It should be noted, however, that just because a 'team' is assembled doesn't necessarily guarantee effective results. Often the result of 'throwing together' a team is the much maligned management by committee.
@@ -29,6 +28,7 @@ There are many wonderful decision making models that can cure the solution trap 
 In order to build a cohesive team we must learn how to manage conflict. There are a number of excellent conflict management models available but you should choose one that leads to productive conflict 5. For more information see previous blog on Conflict Management Models
 The goal of any project is to arrive at the best possible outcomes for a wide variety of decisions that have to be made. Considering these four concepts as it pertains to your team should provide the framework needed to reach these solutions
 </div>
+
 <hr>
 
 1. David L. Bradford, "Building High-Performance Teams," The Portable MBA in Management. Allen R. Cohen (ed.),
