@@ -31,7 +31,7 @@ avatar:
   
 
 # AboutPage background
-about_big_image: [css/images/pose.jpg, https://source.unsplash.com/collection/954550/1920x1080]
+about_big_image: [css/images/clarkhead.png, https://source.unsplash.com/collection/954550/1920x1080]
 
 
 # Homepage thumbnail
@@ -75,7 +75,8 @@ search:
     insight: true # you need to install `hexo-generator-json-content` before using Insight Search
     swiftype: # enter swiftype install key here
     baidu: false # you need to disable other search engines to use Baidu search, options: true, false
-
+    path: search.xml
+    field: all
 
 # comment ShortName, you can choose only ONE to display.
 gentie_productKey: #your-gentie-product-key
