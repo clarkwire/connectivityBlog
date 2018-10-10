@@ -1,6 +1,5 @@
 ---
 title: About
-date: 2018-09-27 08:08:49
 ---
 <link href="https://fonts.googleapis.com/css?family=Roboto|Yanone+Kaffeesatz" rel="stylesheet">
 <div style="font-family: 'Roboto', sans-serif; font-size: 17px; margin-top: -25px;">
