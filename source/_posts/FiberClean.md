@@ -20,7 +20,8 @@ The Clark CWT-SMPTE is the only SMPTE cable tester of its kind. A two-piece test
 <ul>
 <li>Clean all the fiber contacts on both the tester and cable to be
 tested prior to connection.</li>
-<em>Dirt, dust, and debris can not only create additional loss, they can also permanently damage the ceramic contacts. Failure to properly clean the fiber optic contacts prior to testing can result in damage to the tester and void the warranty.</em><br />(Contacts can be cleaned with the Clark <em>FOC-CK-OCS</em>, one-click cleaning pen for 2.0mm SMPTE fiber optic contacts).
+<em>Dirt, dust, and debris can not only create additional loss, they can also permanently damage the ceramic contacts. Failure to properly clean the fiber optic contacts prior to testing can result in damage to the tester and void the warranty.</em>
+<br /> Clark recommends contacts can be cleaned with the Clark <em>FOC-CK-OCS</em>, one-click cleaning pen for 2.0mm SMPTE fiber optic contacts.
 <br />
 <li>Periodically check the fiber contacts for contamination and damage. Clean the contacts as described above. With the power off on both units (for eye and sensor safety), inspect the contacts with a microscope such as the Clark <em>FOT-SCP3-F2</em>. 
 </li>
