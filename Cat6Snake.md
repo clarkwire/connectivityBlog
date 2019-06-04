@@ -18,7 +18,6 @@ In order for Ethernet to be used in the industrial environment,
 the cables and connectors must be adapted to withstand
 environmental conditions that are not present in commercial
 installations. These conditions include:
-</div>
 <ul>
 <li>Oil</li>
 <li>Chemical
@@ -39,6 +38,7 @@ Industrial network connectivity needs be able to withstand all of these conditio
 More and more industrial applications require clean data, which increasingly makes Ethernet the optimal solution for today’s
 industrial environments.
 <br />
+</div>
 </div>
 </div>
 </div>
