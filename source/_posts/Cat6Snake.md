@@ -1,5 +1,5 @@
 ---
-title: A Case for a Rugged Catagory6 Snake Cable
+title: Why you Should Reconsider Your Category6 Network Cable
 tags: 
 - Cat6
 - Snake Cable
@@ -32,11 +32,11 @@ In addition to harsh environmental conditions, environmental noise can have a ne
 Electrical noise from nearby AC or DC circuits, electrical motors, and other electrical equipment 
 may result in increased RFI and EMI interference, which can decrease system performance. 
 
-Industrial network connectivity needs be able to withstand all of these conditions and still reliably perform. 
-More and more industrial applications require clean data, which increasingly makes Ethernet the optimal solution for today’s
+Industrial network connectivity needs be able to withstand all of these conditions and still reliably perform. More and more industrial applications require clean data, which increasingly makes Ethernet the optimal solution for today’s
 industrial environments.
 
 Luckily Clark Wire and Cable offers a ruggedized Cat6 snake cable designed for staging and remote production applications.
+<br/>
 The <em>CNS4C6S</em> features an abrasion resistant and extra-flexible outer TPE jacket with each Cat6 element shielded with a 100% foil/Mylar tape.
 What's more, the <em>CNS4C6S</em> includes four network elements within a single cable! 
 
