@@ -29,7 +29,6 @@ installations. These conditions include:
 <li>Flexing
 </li>
 </ul>
-<div style="font-family: 'Roboto', sans-serif; font-size: 18px; margin-top: -25px;">
 In addition to harsh environmental conditions, environmental noise can have a negative affect on
 network performance. Electrical noise from nearby AC or DC circuits, electrical motors, and other electrical equipment 
 may result in increased RFI and EMI interference, which can decrease system performance. 
