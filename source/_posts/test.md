@@ -1,6 +1,6 @@
 ---
-title: Clark Appoints Edwin Vargas as Latin American Sales Manager
-date: 2019-06-25 13:45:00
+title: Test Edwin Vargas as Latin American Sales Manager
+date: 2019-06-26 13:45:00
 tags:
 - News
 - International
