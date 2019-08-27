@@ -1,5 +1,6 @@
 ---
 title: Why you Should Reconsider Your Category6 Network Cable
+date: 2019-07-10 15:35:23
 tags: 
 - Cat6
 - Snake Cable
